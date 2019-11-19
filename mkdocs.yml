@@ -113,7 +113,8 @@ nav:
 
 
 
-
+  - Machine Learning:
+    - Welcome: 'machine-learning/index.md'
 
   - Etch Language:
     - Welcome:
